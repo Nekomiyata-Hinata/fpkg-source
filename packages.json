@@ -4,4 +4,18 @@
 "version":[0,0,1],
 "url":"/paint.fpkg",
 "description":"Painting Generator."
+},
+{"name":"bdump",
+"type":"fb",
+"depends":[],
+"version":[0,0,1],
+"url":"/bdump.fpkg",
+"description":"BDump"
+},
+{"name":"function",
+"type":"fb",
+"depends":[],
+"version":[0,0,1],
+"url":"/function.fpkg",
+"description":"Execute function."
 }]
